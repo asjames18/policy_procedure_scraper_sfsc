@@ -1,0 +1,853 @@
+2025-04-24 11:07:44,468 - INFO - Starting scraping process
+2025-04-24 11:07:44,468 - INFO - Scraping policies...
+2025-04-24 11:07:45,422 - INFO - Scraping https://www.southflorida.edu/current-students/testing-center/policies-procedures
+2025-04-24 11:07:46,221 - INFO - Scraping https://www.southflorida.edu/policies/general-principles-2/general-principles-1-09-grievance-procedures
+2025-04-24 11:07:48,005 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:48,008 - WARNING - No content found for https://www.southflorida.edu/policies/general-principles-2/general-principles-1-09-grievance-procedures
+2025-04-24 11:07:48,008 - INFO - Scraping https://www.southflorida.edu/policies/organization-governance/organization-governance-2-04-adoption-sfsc-policies-procedures
+2025-04-24 11:07:48,396 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:48,412 - WARNING - No content found for https://www.southflorida.edu/policies/organization-governance/organization-governance-2-04-adoption-sfsc-policies-procedures
+2025-04-24 11:07:48,412 - INFO - Scraping https://www.southflorida.edu/policies/organization-governance/organization-governance-2-08-check-electronic-funds-transfer-procedure
+2025-04-24 11:07:48,763 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:48,763 - WARNING - No content found for https://www.southflorida.edu/policies/organization-governance/organization-governance-2-08-check-electronic-funds-transfer-procedure
+2025-04-24 11:07:48,778 - INFO - Scraping https://www.southflorida.edu/policies/education-student-services/education-student-services-3-09-course-policy-statement-syllabus
+2025-04-24 11:07:49,146 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:49,146 - WARNING - No content found for https://www.southflorida.edu/policies/education-student-services/education-student-services-3-09-course-policy-statement-syllabus
+2025-04-24 11:07:49,146 - INFO - Scraping https://www.southflorida.edu/policies/general-principles-2/general-principles-1-09-grievance-procedures
+2025-04-24 11:07:49,499 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:49,501 - WARNING - No content found for https://www.southflorida.edu/policies/general-principles-2/general-principles-1-09-grievance-procedures
+2025-04-24 11:07:49,501 - INFO - Scraping https://www.southflorida.edu/policies/organization-governance/organization-governance-2-04-adoption-sfsc-policies-procedures
+2025-04-24 11:07:49,853 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:49,853 - WARNING - No content found for https://www.southflorida.edu/policies/organization-governance/organization-governance-2-04-adoption-sfsc-policies-procedures
+2025-04-24 11:07:49,853 - INFO - Scraping https://www.southflorida.edu/policies/organization-governance/organization-governance-2-08-check-electronic-funds-transfer-procedure
+2025-04-24 11:07:50,211 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:50,217 - WARNING - No content found for https://www.southflorida.edu/policies/organization-governance/organization-governance-2-08-check-electronic-funds-transfer-procedure
+2025-04-24 11:07:50,217 - INFO - Scraping https://www.southflorida.edu/policies/education-student-services/education-student-services-3-09-course-policy-statement-syllabus
+2025-04-24 11:07:50,581 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:50,584 - WARNING - No content found for https://www.southflorida.edu/policies/education-student-services/education-student-services-3-09-course-policy-statement-syllabus
+2025-04-24 11:07:50,585 - INFO - Scraping https://www.southflorida.edu/procedures
+2025-04-24 11:07:51,466 - INFO - Scraping procedures...
+2025-04-24 11:07:52,322 - INFO - Scraping https://www.southflorida.edu/current-students/testing-center/policies-procedures
+2025-04-24 11:07:53,167 - INFO - Scraping https://www.southflorida.edu/procedures/1050-seating-access-mobility-impaired-performances
+2025-04-24 11:07:53,575 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:53,583 - WARNING - No content found for https://www.southflorida.edu/procedures/1050-seating-access-mobility-impaired-performances
+2025-04-24 11:07:53,583 - INFO - Scraping https://www.southflorida.edu/procedures/2040-development-adoption-policies
+2025-04-24 11:07:53,970 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:53,974 - WARNING - No content found for https://www.southflorida.edu/procedures/2040-development-adoption-policies
+2025-04-24 11:07:53,975 - INFO - Scraping https://www.southflorida.edu/procedures/3030-academic-program-review-procedures
+2025-04-24 11:07:54,501 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:54,511 - WARNING - No content found for https://www.southflorida.edu/procedures/3030-academic-program-review-procedures
+2025-04-24 11:07:54,511 - INFO - Scraping https://www.southflorida.edu/procedures/5071-establishing-new-positions
+2025-04-24 11:07:54,940 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:54,943 - WARNING - No content found for https://www.southflorida.edu/procedures/5071-establishing-new-positions
+2025-04-24 11:07:54,943 - INFO - Scraping https://www.southflorida.edu/procedures/2041-development-adoption-administrative-procedure
+2025-04-24 11:07:55,335 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:55,335 - WARNING - No content found for https://www.southflorida.edu/procedures/2041-development-adoption-administrative-procedure
+2025-04-24 11:07:55,335 - INFO - Scraping https://www.southflorida.edu/procedures/3010-cultural-programming-guidelines-freedom-expression
+2025-04-24 11:07:55,706 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:55,709 - WARNING - No content found for https://www.southflorida.edu/procedures/3010-cultural-programming-guidelines-freedom-expression
+2025-04-24 11:07:55,709 - INFO - Scraping https://www.southflorida.edu/procedures/3021-curriculum-development
+2025-04-24 11:07:56,285 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:56,300 - WARNING - No content found for https://www.southflorida.edu/procedures/3021-curriculum-development
+2025-04-24 11:07:56,303 - INFO - Scraping https://www.southflorida.edu/procedures/3011-academic-freedom
+2025-04-24 11:07:56,664 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:56,664 - WARNING - No content found for https://www.southflorida.edu/procedures/3011-academic-freedom
+2025-04-24 11:07:56,676 - INFO - Scraping https://www.southflorida.edu/procedures/4030-budget-development-budget-amendment-procedure
+2025-04-24 11:07:57,035 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:57,065 - WARNING - No content found for https://www.southflorida.edu/procedures/4030-budget-development-budget-amendment-procedure
+2025-04-24 11:07:57,065 - INFO - Scraping https://www.southflorida.edu/procedures/4040-purchasing-goods-services
+2025-04-24 11:07:57,551 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:57,557 - WARNING - No content found for https://www.southflorida.edu/procedures/4040-purchasing-goods-services
+2025-04-24 11:07:57,559 - INFO - Scraping https://www.southflorida.edu/procedures/4041-textbook-adoption
+2025-04-24 11:07:57,919 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:57,921 - WARNING - No content found for https://www.southflorida.edu/procedures/4041-textbook-adoption
+2025-04-24 11:07:57,922 - INFO - Scraping https://www.southflorida.edu/procedures/5011-staff-development
+2025-04-24 11:07:58,394 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:58,394 - WARNING - No content found for https://www.southflorida.edu/procedures/5011-staff-development
+2025-04-24 11:07:58,394 - INFO - Scraping https://www.southflorida.edu/procedures/5021-fringe-benefits
+2025-04-24 11:07:58,866 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:58,867 - WARNING - No content found for https://www.southflorida.edu/procedures/5021-fringe-benefits
+2025-04-24 11:07:58,867 - INFO - Scraping https://www.southflorida.edu/procedures/7010-contracting-architectural-engineering-professional-services
+2025-04-24 11:07:59,230 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:59,230 - WARNING - No content found for https://www.southflorida.edu/procedures/7010-contracting-architectural-engineering-professional-services
+2025-04-24 11:07:59,230 - INFO - Scraping https://www.southflorida.edu/procedures/8010-south-florida-state-college-foundation-inc
+2025-04-24 11:07:59,579 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:59,596 - WARNING - No content found for https://www.southflorida.edu/procedures/8010-south-florida-state-college-foundation-inc
+2025-04-24 11:07:59,597 - INFO - Scraping https://www.southflorida.edu/procedures/7011-contracting-construction-manager-services
+2025-04-24 11:07:59,961 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:07:59,961 - WARNING - No content found for https://www.southflorida.edu/procedures/7011-contracting-construction-manager-services
+2025-04-24 11:07:59,961 - INFO - Scraping https://www.southflorida.edu/procedures/5023-employee-enrollment-courses-south-florida-state-college
+2025-04-24 11:08:00,502 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:00,502 - WARNING - No content found for https://www.southflorida.edu/procedures/5023-employee-enrollment-courses-south-florida-state-college
+2025-04-24 11:08:00,502 - INFO - Scraping https://www.southflorida.edu/procedures/7020-change-orders-affecting-construction-contractsfinal-payment
+2025-04-24 11:08:00,852 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:00,852 - WARNING - No content found for https://www.southflorida.edu/procedures/7020-change-orders-affecting-construction-contractsfinal-payment
+2025-04-24 11:08:00,867 - INFO - Scraping https://www.southflorida.edu/procedures/7030-use-college-vehicles
+2025-04-24 11:08:01,217 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:01,217 - WARNING - No content found for https://www.southflorida.edu/procedures/7030-use-college-vehicles
+2025-04-24 11:08:01,217 - INFO - Scraping https://www.southflorida.edu/procedures/3100-instructor-withdrawal-students-classes
+2025-04-24 11:08:01,587 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:01,587 - WARNING - No content found for https://www.southflorida.edu/procedures/3100-instructor-withdrawal-students-classes
+2025-04-24 11:08:01,587 - INFO - Scraping https://www.southflorida.edu/procedures/4090-cash-collection-receipting-procedure
+2025-04-24 11:08:02,034 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:02,034 - WARNING - No content found for https://www.southflorida.edu/procedures/4090-cash-collection-receipting-procedure
+2025-04-24 11:08:02,037 - INFO - Scraping https://www.southflorida.edu/procedures/5030-staff-faculty-separation
+2025-04-24 11:08:02,387 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:02,387 - WARNING - No content found for https://www.southflorida.edu/procedures/5030-staff-faculty-separation
+2025-04-24 11:08:02,387 - INFO - Scraping https://www.southflorida.edu/procedures/7031-field-trips
+2025-04-24 11:08:02,775 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:02,775 - WARNING - No content found for https://www.southflorida.edu/procedures/7031-field-trips
+2025-04-24 11:08:02,775 - INFO - Scraping https://www.southflorida.edu/procedures/1051-service-animals-on-college-grounds
+2025-04-24 11:08:03,230 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:03,233 - WARNING - No content found for https://www.southflorida.edu/procedures/1051-service-animals-on-college-grounds
+2025-04-24 11:08:03,234 - INFO - Scraping https://www.southflorida.edu/procedures/3101-academic-standards-progress
+2025-04-24 11:08:03,606 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:03,606 - WARNING - No content found for https://www.southflorida.edu/procedures/3101-academic-standards-progress
+2025-04-24 11:08:03,608 - INFO - Scraping https://www.southflorida.edu/procedures/5031-exit-interviews
+2025-04-24 11:08:04,037 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:04,041 - WARNING - No content found for https://www.southflorida.edu/procedures/5031-exit-interviews
+2025-04-24 11:08:04,042 - INFO - Scraping https://www.southflorida.edu/procedures/7032-emergency-evacuation
+2025-04-24 11:08:04,423 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:04,423 - WARNING - No content found for https://www.southflorida.edu/procedures/7032-emergency-evacuation
+2025-04-24 11:08:04,423 - INFO - Scraping https://www.southflorida.edu/procedures/1070-alcohol-drug-free-campus-workplace
+2025-04-24 11:08:04,879 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:04,879 - WARNING - No content found for https://www.southflorida.edu/procedures/1070-alcohol-drug-free-campus-workplace
+2025-04-24 11:08:04,879 - INFO - Scraping https://www.southflorida.edu/procedures/2061-reports-coordination
+2025-04-24 11:08:05,260 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:05,260 - WARNING - No content found for https://www.southflorida.edu/procedures/2061-reports-coordination
+2025-04-24 11:08:05,260 - INFO - Scraping https://www.southflorida.edu/procedures/3102-standards-progress-students-financial-aid
+2025-04-24 11:08:05,707 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:05,711 - WARNING - No content found for https://www.southflorida.edu/procedures/3102-standards-progress-students-financial-aid
+2025-04-24 11:08:05,711 - INFO - Scraping https://www.southflorida.edu/procedures/5040-evaluation-full-time-adjunct-faculty
+2025-04-24 11:08:06,150 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:06,153 - WARNING - No content found for https://www.southflorida.edu/procedures/5040-evaluation-full-time-adjunct-faculty
+2025-04-24 11:08:06,155 - INFO - Scraping https://www.southflorida.edu/procedures/7033-fire-exit-regulations
+2025-04-24 11:08:06,533 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:06,535 - WARNING - No content found for https://www.southflorida.edu/procedures/7033-fire-exit-regulations
+2025-04-24 11:08:06,535 - INFO - Scraping https://www.southflorida.edu/procedures/1090-faculty-administrative-grievance-procedure
+2025-04-24 11:08:06,962 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:06,965 - WARNING - No content found for https://www.southflorida.edu/procedures/1090-faculty-administrative-grievance-procedure
+2025-04-24 11:08:06,965 - INFO - Scraping https://www.southflorida.edu/procedures/2063-circulation-library-services-educational-materials
+2025-04-24 11:08:07,356 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:07,356 - WARNING - No content found for https://www.southflorida.edu/procedures/2063-circulation-library-services-educational-materials
+2025-04-24 11:08:07,356 - INFO - Scraping https://www.southflorida.edu/procedures/3103-academic-appeals
+2025-04-24 11:08:07,748 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:07,748 - WARNING - No content found for https://www.southflorida.edu/procedures/3103-academic-appeals
+2025-04-24 11:08:07,748 - INFO - Scraping https://www.southflorida.edu/procedures/4111-graduation-fees
+2025-04-24 11:08:08,117 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:08,118 - WARNING - No content found for https://www.southflorida.edu/procedures/4111-graduation-fees
+2025-04-24 11:08:08,118 - INFO - Scraping https://www.southflorida.edu/procedures/5041-evaluation-professional-staff-career-service-employees
+2025-04-24 11:08:08,583 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:08,588 - WARNING - No content found for https://www.southflorida.edu/procedures/5041-evaluation-professional-staff-career-service-employees
+2025-04-24 11:08:08,588 - INFO - Scraping https://www.southflorida.edu/procedures/7034-parking-traffic-regulations
+2025-04-24 11:08:08,933 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:08,951 - WARNING - No content found for https://www.southflorida.edu/procedures/7034-parking-traffic-regulations
+2025-04-24 11:08:08,951 - INFO - Scraping https://www.southflorida.edu/procedures/1091-career-service-supervisorytechnical-grievance-procedure
+2025-04-24 11:08:09,437 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:09,437 - WARNING - No content found for https://www.southflorida.edu/procedures/1091-career-service-supervisorytechnical-grievance-procedure
+2025-04-24 11:08:09,437 - INFO - Scraping https://www.southflorida.edu/procedures/2064-acquisition-library-materials
+2025-04-24 11:08:09,862 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:09,864 - WARNING - No content found for https://www.southflorida.edu/procedures/2064-acquisition-library-materials
+2025-04-24 11:08:09,866 - INFO - Scraping https://www.southflorida.edu/procedures/3111-evaluating-regionally-accredited-institutional-credit
+2025-04-24 11:08:10,305 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:10,317 - WARNING - No content found for https://www.southflorida.edu/procedures/3111-evaluating-regionally-accredited-institutional-credit
+2025-04-24 11:08:10,317 - INFO - Scraping https://www.southflorida.edu/procedures/4112-fees
+2025-04-24 11:08:10,686 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:10,686 - WARNING - No content found for https://www.southflorida.edu/procedures/4112-fees
+2025-04-24 11:08:10,686 - INFO - Scraping https://www.southflorida.edu/procedures/5042-evaluation-administrators
+2025-04-24 11:08:11,071 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:11,071 - WARNING - No content found for https://www.southflorida.edu/procedures/5042-evaluation-administrators
+2025-04-24 11:08:11,071 - INFO - Scraping https://www.southflorida.edu/procedures/7035-illness-accidental-injury
+2025-04-24 11:08:11,444 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:11,454 - WARNING - No content found for https://www.southflorida.edu/procedures/7035-illness-accidental-injury
+2025-04-24 11:08:11,454 - INFO - Scraping https://www.southflorida.edu/procedures/1092-correcting-actions-career-service-supervisorytechnical-employees
+2025-04-24 11:08:11,871 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:11,879 - WARNING - No content found for https://www.southflorida.edu/procedures/1092-correcting-actions-career-service-supervisorytechnical-employees
+2025-04-24 11:08:11,879 - INFO - Scraping https://www.southflorida.edu/procedures/2065-use-of-college-multimedia-production-facilities
+2025-04-24 11:08:12,291 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:12,295 - WARNING - No content found for https://www.southflorida.edu/procedures/2065-use-of-college-multimedia-production-facilities
+2025-04-24 11:08:12,295 - INFO - Scraping https://www.southflorida.edu/procedures/3112-evaluating-non-regionally-accredited-institutional-credit
+2025-04-24 11:08:12,741 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:12,743 - WARNING - No content found for https://www.southflorida.edu/procedures/3112-evaluating-non-regionally-accredited-institutional-credit
+2025-04-24 11:08:12,743 - INFO - Scraping https://www.southflorida.edu/procedures/4113-application-fee
+2025-04-24 11:08:13,100 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:13,100 - WARNING - No content found for https://www.southflorida.edu/procedures/4113-application-fee
+2025-04-24 11:08:13,100 - INFO - Scraping https://www.southflorida.edu/procedures/5043-employee-reappointment-evaluations
+2025-04-24 11:08:13,467 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:13,467 - WARNING - No content found for https://www.southflorida.edu/procedures/5043-employee-reappointment-evaluations
+2025-04-24 11:08:13,467 - INFO - Scraping https://www.southflorida.edu/procedures/7036-security
+2025-04-24 11:08:13,840 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:13,842 - WARNING - No content found for https://www.southflorida.edu/procedures/7036-security
+2025-04-24 11:08:13,842 - INFO - Scraping https://www.southflorida.edu/procedures/1093-correcting-actions-faculty-personnel
+2025-04-24 11:08:14,204 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:14,204 - WARNING - No content found for https://www.southflorida.edu/procedures/1093-correcting-actions-faculty-personnel
+2025-04-24 11:08:14,215 - INFO - Scraping https://www.southflorida.edu/procedures/2062-library-inventory
+2025-04-24 11:08:14,578 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:14,578 - WARNING - No content found for https://www.southflorida.edu/procedures/2062-library-inventory
+2025-04-24 11:08:14,578 - INFO - Scraping https://www.southflorida.edu/procedures/3113-awarded-acceleratedexperiential-learning-credits
+2025-04-24 11:08:15,024 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:15,034 - WARNING - No content found for https://www.southflorida.edu/procedures/3113-awarded-acceleratedexperiential-learning-credits
+2025-04-24 11:08:15,034 - INFO - Scraping https://www.southflorida.edu/procedures/4114-labcourse-distance-learning-fees
+2025-04-24 11:08:15,478 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:15,482 - WARNING - No content found for https://www.southflorida.edu/procedures/4114-labcourse-distance-learning-fees
+2025-04-24 11:08:15,484 - INFO - Scraping https://www.southflorida.edu/procedures/5060-professional-standards-faculty-exceptions
+2025-04-24 11:08:15,852 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:15,852 - WARNING - No content found for https://www.southflorida.edu/procedures/5060-professional-standards-faculty-exceptions
+2025-04-24 11:08:15,852 - INFO - Scraping https://www.southflorida.edu/procedures/7036-1-security-video-surveillance
+2025-04-24 11:08:16,221 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:16,224 - WARNING - No content found for https://www.southflorida.edu/procedures/7036-1-security-video-surveillance
+2025-04-24 11:08:16,224 - INFO - Scraping https://www.southflorida.edu/procedures/1094-final-paycheck-terminated-employment
+2025-04-24 11:08:16,586 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:16,595 - WARNING - No content found for https://www.southflorida.edu/procedures/1094-final-paycheck-terminated-employment
+2025-04-24 11:08:16,595 - INFO - Scraping https://www.southflorida.edu/procedures/2060-fraud-reporting-procedures
+2025-04-24 11:08:17,011 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:17,017 - WARNING - No content found for https://www.southflorida.edu/procedures/2060-fraud-reporting-procedures
+2025-04-24 11:08:17,017 - INFO - Scraping https://www.southflorida.edu/procedures/4120-outstanding-debt
+2025-04-24 11:08:17,396 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:17,396 - WARNING - No content found for https://www.southflorida.edu/procedures/4120-outstanding-debt
+2025-04-24 11:08:17,396 - INFO - Scraping https://www.southflorida.edu/procedures/5061-advancement-rank-faculty
+2025-04-24 11:08:17,884 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:17,890 - WARNING - No content found for https://www.southflorida.edu/procedures/5061-advancement-rank-faculty
+2025-04-24 11:08:17,892 - INFO - Scraping https://www.southflorida.edu/procedures/7037-safety-precautions
+2025-04-24 11:08:18,294 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:18,294 - WARNING - No content found for https://www.southflorida.edu/procedures/7037-safety-precautions
+2025-04-24 11:08:18,294 - INFO - Scraping https://www.southflorida.edu/procedures/2070-insurance-newly-completed-construction-projects
+2025-04-24 11:08:18,636 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:18,652 - WARNING - No content found for https://www.southflorida.edu/procedures/2070-insurance-newly-completed-construction-projects
+2025-04-24 11:08:18,652 - INFO - Scraping https://www.southflorida.edu/procedures/4130-sfsc-refund-procedure
+2025-04-24 11:08:19,035 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:19,038 - WARNING - No content found for https://www.southflorida.edu/procedures/4130-sfsc-refund-procedure
+2025-04-24 11:08:19,038 - INFO - Scraping https://www.southflorida.edu/procedures/5070-reappointment-termination-procedures-annual-contract-employees
+2025-04-24 11:08:19,503 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:19,503 - WARNING - No content found for https://www.southflorida.edu/procedures/5070-reappointment-termination-procedures-annual-contract-employees
+2025-04-24 11:08:19,503 - INFO - Scraping https://www.southflorida.edu/procedures/7038-key-control
+2025-04-24 11:08:19,885 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:19,885 - WARNING - No content found for https://www.southflorida.edu/procedures/7038-key-control
+2025-04-24 11:08:19,885 - INFO - Scraping https://www.southflorida.edu/procedures/1100-equal-opportunity
+2025-04-24 11:08:20,252 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:20,252 - WARNING - No content found for https://www.southflorida.edu/procedures/1100-equal-opportunity
+2025-04-24 11:08:20,252 - INFO - Scraping https://www.southflorida.edu/procedures/2071-safes-vaults
+2025-04-24 11:08:20,641 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:20,641 - WARNING - No content found for https://www.southflorida.edu/procedures/2071-safes-vaults
+2025-04-24 11:08:20,641 - INFO - Scraping https://www.southflorida.edu/procedures/3150-admission-bas-aa-aas-adult-education-programs
+2025-04-24 11:08:21,135 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:21,140 - WARNING - No content found for https://www.southflorida.edu/procedures/3150-admission-bas-aa-aas-adult-education-programs
+2025-04-24 11:08:21,143 - INFO - Scraping https://www.southflorida.edu/procedures/4150-investment-funds
+2025-04-24 11:08:21,588 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:21,588 - WARNING - No content found for https://www.southflorida.edu/procedures/4150-investment-funds
+2025-04-24 11:08:21,588 - INFO - Scraping https://www.southflorida.edu/procedures/7039-accident-information
+2025-04-24 11:08:21,953 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:21,953 - WARNING - No content found for https://www.southflorida.edu/procedures/7039-accident-information
+2025-04-24 11:08:21,953 - INFO - Scraping https://www.southflorida.edu/procedures/1101-substitution-courses-students-disabilities
+2025-04-24 11:08:22,308 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:22,308 - WARNING - No content found for https://www.southflorida.edu/procedures/1101-substitution-courses-students-disabilities
+2025-04-24 11:08:22,308 - INFO - Scraping https://www.southflorida.edu/procedures/5080-reclassification-positions
+2025-04-24 11:08:22,772 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:22,772 - WARNING - No content found for https://www.southflorida.edu/procedures/5080-reclassification-positions
+2025-04-24 11:08:22,772 - INFO - Scraping https://www.southflorida.edu/procedures/2072-lost-found-property
+2025-04-24 11:08:23,158 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:23,158 - WARNING - No content found for https://www.southflorida.edu/procedures/2072-lost-found-property
+2025-04-24 11:08:23,158 - INFO - Scraping https://www.southflorida.edu/procedures/3151-admission-dual-enrollment-programs
+2025-04-24 11:08:23,572 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:23,572 - WARNING - No content found for https://www.southflorida.edu/procedures/3151-admission-dual-enrollment-programs
+2025-04-24 11:08:23,576 - INFO - Scraping https://www.southflorida.edu/procedures/4180-travel-reimbursement
+2025-04-24 11:08:23,999 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:24,002 - WARNING - No content found for https://www.southflorida.edu/procedures/4180-travel-reimbursement
+2025-04-24 11:08:24,002 - INFO - Scraping https://www.southflorida.edu/procedures/7039-1-contacting-students
+2025-04-24 11:08:24,389 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:24,391 - WARNING - No content found for https://www.southflorida.edu/procedures/7039-1-contacting-students
+2025-04-24 11:08:24,392 - INFO - Scraping https://www.southflorida.edu/procedures/2074-responsibility-college-property-property-records
+2025-04-24 11:08:24,809 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:24,809 - WARNING - No content found for https://www.southflorida.edu/procedures/2074-responsibility-college-property-property-records
+2025-04-24 11:08:24,809 - INFO - Scraping https://www.southflorida.edu/procedures/3160-student-admission-process
+2025-04-24 11:08:25,222 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:25,222 - WARNING - No content found for https://www.southflorida.edu/procedures/3160-student-admission-process
+2025-04-24 11:08:25,226 - INFO - Scraping https://www.southflorida.edu/procedures/4220-grant-procedures
+2025-04-24 11:08:25,643 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:25,676 - INFO - Scraping https://www.southflorida.edu/procedures/5090-probationary-performance-review-system
+2025-04-24 11:08:26,082 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:26,082 - WARNING - No content found for https://www.southflorida.edu/procedures/5090-probationary-performance-review-system
+2025-04-24 11:08:26,087 - INFO - Scraping https://www.southflorida.edu/procedures/7040-rental-supplemental-facilities-facilities-used-college
+2025-04-24 11:08:26,459 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:26,461 - WARNING - No content found for https://www.southflorida.edu/procedures/7040-rental-supplemental-facilities-facilities-used-college
+2025-04-24 11:08:26,462 - INFO - Scraping https://www.southflorida.edu/procedures/2076-use-college-vans
+2025-04-24 11:08:26,829 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:26,830 - WARNING - No content found for https://www.southflorida.edu/procedures/2076-use-college-vans
+2025-04-24 11:08:26,831 - INFO - Scraping https://www.southflorida.edu/procedures/3161-admission-international-students
+2025-04-24 11:08:27,210 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:27,211 - WARNING - No content found for https://www.southflorida.edu/procedures/3161-admission-international-students
+2025-04-24 11:08:27,212 - INFO - Scraping https://www.southflorida.edu/procedures/3161-admission-international-students/international-student-classification
+2025-04-24 11:08:28,004 - INFO - Scraping https://www.southflorida.edu/procedures/4221-grants-contracts-personnel-activity-reports
+2025-04-24 11:08:28,414 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:28,414 - WARNING - No content found for https://www.southflorida.edu/procedures/4221-grants-contracts-personnel-activity-reports
+2025-04-24 11:08:28,414 - INFO - Scraping https://www.southflorida.edu/procedures/5110-substitute-instructional
+2025-04-24 11:08:28,884 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:28,888 - WARNING - No content found for https://www.southflorida.edu/procedures/5110-substitute-instructional
+2025-04-24 11:08:28,889 - INFO - Scraping https://www.southflorida.edu/procedures/7050-use-scheduling-college-facilities
+2025-04-24 11:08:29,301 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:29,301 - WARNING - No content found for https://www.southflorida.edu/procedures/7050-use-scheduling-college-facilities
+2025-04-24 11:08:29,301 - INFO - Scraping https://www.southflorida.edu/procedures/1140-copyright-compliance
+2025-04-24 11:08:29,798 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:29,800 - WARNING - No content found for https://www.southflorida.edu/procedures/1140-copyright-compliance
+2025-04-24 11:08:29,801 - INFO - Scraping https://www.southflorida.edu/procedures/2080-cash-disbursements
+2025-04-24 11:08:30,210 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:30,212 - WARNING - No content found for https://www.southflorida.edu/procedures/2080-cash-disbursements
+2025-04-24 11:08:30,213 - INFO - Scraping https://www.southflorida.edu/procedures/3230-student-financial-aid-information
+2025-04-24 11:08:30,698 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:30,709 - WARNING - No content found for https://www.southflorida.edu/procedures/3230-student-financial-aid-information
+2025-04-24 11:08:30,709 - INFO - Scraping https://www.southflorida.edu/procedures/4222-cost-principles-federal-grants
+2025-04-24 11:08:31,190 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:31,190 - WARNING - No content found for https://www.southflorida.edu/procedures/4222-cost-principles-federal-grants
+2025-04-24 11:08:31,190 - INFO - Scraping https://www.southflorida.edu/procedures/5130-leaves-absense
+2025-04-24 11:08:31,664 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:31,669 - WARNING - No content found for https://www.southflorida.edu/procedures/5130-leaves-absense
+2025-04-24 11:08:31,669 - INFO - Scraping https://www.southflorida.edu/procedures/7052-catering-procedure
+2025-04-24 11:08:32,110 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:32,113 - WARNING - No content found for https://www.southflorida.edu/procedures/7052-catering-procedure
+2025-04-24 11:08:32,114 - INFO - Scraping https://www.southflorida.edu/procedures/1160-materials-produced-employees
+2025-04-24 11:08:32,572 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:32,573 - WARNING - No content found for https://www.southflorida.edu/procedures/1160-materials-produced-employees
+2025-04-24 11:08:32,573 - INFO - Scraping https://www.southflorida.edu/procedures/1170-tobacco-free-college
+2025-04-24 11:08:33,031 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:33,042 - WARNING - No content found for https://www.southflorida.edu/procedures/1170-tobacco-free-college
+2025-04-24 11:08:33,042 - INFO - Scraping https://www.southflorida.edu/procedures/3231-return-of-title-iv-funds
+2025-04-24 11:08:33,480 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:33,480 - WARNING - No content found for https://www.southflorida.edu/procedures/3231-return-of-title-iv-funds
+2025-04-24 11:08:33,480 - INFO - Scraping https://www.southflorida.edu/procedures/4223-conflict-interest-procedure-grant-awards
+2025-04-24 11:08:33,832 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:33,832 - WARNING - No content found for https://www.southflorida.edu/procedures/4223-conflict-interest-procedure-grant-awards
+2025-04-24 11:08:33,843 - INFO - Scraping https://www.southflorida.edu/procedures/5140-salary-schedule-compensation
+2025-04-24 11:08:34,199 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:34,212 - WARNING - No content found for https://www.southflorida.edu/procedures/5140-salary-schedule-compensation
+2025-04-24 11:08:34,214 - INFO - Scraping https://www.southflorida.edu/procedures/7060-contingency-plan-disorders
+2025-04-24 11:08:34,614 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:34,616 - WARNING - No content found for https://www.southflorida.edu/procedures/7060-contingency-plan-disorders
+2025-04-24 11:08:34,617 - INFO - Scraping https://www.southflorida.edu/procedures/2090-development-non-classroom-college-publications
+2025-04-24 11:08:35,093 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:35,100 - WARNING - No content found for https://www.southflorida.edu/procedures/2090-development-non-classroom-college-publications
+2025-04-24 11:08:35,101 - INFO - Scraping https://www.southflorida.edu/procedures/3232-scholarships
+2025-04-24 11:08:35,533 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:35,536 - WARNING - No content found for https://www.southflorida.edu/procedures/3232-scholarships
+2025-04-24 11:08:35,536 - INFO - Scraping https://www.southflorida.edu/procedures/4224-grant-procedures-cash-management
+2025-04-24 11:08:35,911 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:35,914 - WARNING - No content found for https://www.southflorida.edu/procedures/4224-grant-procedures-cash-management
+2025-04-24 11:08:35,915 - INFO - Scraping https://www.southflorida.edu/procedures/5141-salary-equity-adjustments
+2025-04-24 11:08:36,322 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:36,322 - WARNING - No content found for https://www.southflorida.edu/procedures/5141-salary-equity-adjustments
+2025-04-24 11:08:36,322 - INFO - Scraping https://www.southflorida.edu/procedures/1180-student-athlete-substance-abuse-testing
+2025-04-24 11:08:36,789 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:36,789 - WARNING - No content found for https://www.southflorida.edu/procedures/1180-student-athlete-substance-abuse-testing
+2025-04-24 11:08:36,789 - INFO - Scraping https://www.southflorida.edu/procedures/2091sfsc-catalog-changes
+2025-04-24 11:08:37,159 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:37,159 - WARNING - No content found for https://www.southflorida.edu/procedures/2091sfsc-catalog-changes
+2025-04-24 11:08:37,159 - INFO - Scraping https://www.southflorida.edu/procedures/3234-student-work-student-employees
+2025-04-24 11:08:37,520 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:37,536 - WARNING - No content found for https://www.southflorida.edu/procedures/3234-student-work-student-employees
+2025-04-24 11:08:37,537 - INFO - Scraping https://www.southflorida.edu/procedures/4225-additional-procurement-procedures-for-purchases-from-federal-grants
+2025-04-24 11:08:37,967 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:37,970 - WARNING - No content found for https://www.southflorida.edu/procedures/4225-additional-procurement-procedures-for-purchases-from-federal-grants
+2025-04-24 11:08:37,971 - INFO - Scraping https://www.southflorida.edu/procedures/5142-salary-determination-for-employees-in-grant-funded-positions
+2025-04-24 11:08:38,435 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:38,436 - WARNING - No content found for https://www.southflorida.edu/procedures/5142-salary-determination-for-employees-in-grant-funded-positions
+2025-04-24 11:08:38,436 - INFO - Scraping https://www.southflorida.edu/procedures/7070-standard-sanitation-housekeeping-maintenance
+2025-04-24 11:08:38,808 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:38,810 - WARNING - No content found for https://www.southflorida.edu/procedures/7070-standard-sanitation-housekeeping-maintenance
+2025-04-24 11:08:38,810 - INFO - Scraping https://www.southflorida.edu/procedures/4226-affirmative-procurement-programs-for-federal-grant-purchases
+2025-04-24 11:08:39,271 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:39,274 - WARNING - No content found for https://www.southflorida.edu/procedures/4226-affirmative-procurement-programs-for-federal-grant-purchases
+2025-04-24 11:08:39,275 - INFO - Scraping https://www.southflorida.edu/procedures/5143-determining-career-service-and-professional-employee-starting-salaries
+2025-04-24 11:08:39,751 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:39,752 - WARNING - No content found for https://www.southflorida.edu/procedures/5143-determining-career-service-and-professional-employee-starting-salaries
+2025-04-24 11:08:39,753 - INFO - Scraping https://www.southflorida.edu/procedures/5160-holiday-pay-overtime-pay-compensatory-time-call-pay
+2025-04-24 11:08:40,231 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:40,231 - WARNING - No content found for https://www.southflorida.edu/procedures/5160-holiday-pay-overtime-pay-compensatory-time-call-pay
+2025-04-24 11:08:40,241 - INFO - Scraping https://www.southflorida.edu/procedures/5190-physical-andor-psychiatric-examinations
+2025-04-24 11:08:40,609 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:40,625 - WARNING - No content found for https://www.southflorida.edu/procedures/5190-physical-andor-psychiatric-examinations
+2025-04-24 11:08:40,626 - INFO - Scraping https://www.southflorida.edu/procedures/2092-2
+2025-04-24 11:08:40,977 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:40,977 - WARNING - No content found for https://www.southflorida.edu/procedures/2092-2
+2025-04-24 11:08:40,992 - INFO - Scraping https://www.southflorida.edu/procedures/2100-release-information-public
+2025-04-24 11:08:41,465 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:41,468 - WARNING - No content found for https://www.southflorida.edu/procedures/2100-release-information-public
+2025-04-24 11:08:41,468 - INFO - Scraping https://www.southflorida.edu/procedures/3280-establishing-student-organizations-clubs
+2025-04-24 11:08:41,947 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:41,953 - WARNING - No content found for https://www.southflorida.edu/procedures/3280-establishing-student-organizations-clubs
+2025-04-24 11:08:41,953 - INFO - Scraping https://www.southflorida.edu/procedures/2110-posted-advertisements
+2025-04-24 11:08:42,451 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:42,454 - WARNING - No content found for https://www.southflorida.edu/procedures/2110-posted-advertisements
+2025-04-24 11:08:42,454 - INFO - Scraping https://www.southflorida.edu/procedures/3281-business-procedures-student-activities
+2025-04-24 11:08:42,948 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:42,952 - WARNING - No content found for https://www.southflorida.edu/procedures/3281-business-procedures-student-activities
+2025-04-24 11:08:42,953 - INFO - Scraping https://www.southflorida.edu/procedures/5210-cooperation-fact-finding
+2025-04-24 11:08:43,339 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:43,340 - WARNING - No content found for https://www.southflorida.edu/procedures/5210-cooperation-fact-finding
+2025-04-24 11:08:43,341 - INFO - Scraping https://www.southflorida.edu/procedures/2120-control-solicitation-information-gathering-employee-students-campus-representing-college
+2025-04-24 11:08:43,777 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:43,794 - WARNING - No content found for https://www.southflorida.edu/procedures/2120-control-solicitation-information-gathering-employee-students-campus-representing-college
+2025-04-24 11:08:43,798 - INFO - Scraping https://www.southflorida.edu/procedures/3283-scheduling-student-activities
+2025-04-24 11:08:44,216 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:44,229 - WARNING - No content found for https://www.southflorida.edu/procedures/3283-scheduling-student-activities
+2025-04-24 11:08:44,229 - INFO - Scraping https://www.southflorida.edu/procedures/2150-college-record-retention-disposal-college-records
+2025-04-24 11:08:44,726 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:44,732 - WARNING - No content found for https://www.southflorida.edu/procedures/2150-college-record-retention-disposal-college-records
+2025-04-24 11:08:44,732 - INFO - Scraping https://www.southflorida.edu/procedures/3284-student-activity-prizes
+2025-04-24 11:08:45,178 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:45,178 - WARNING - No content found for https://www.southflorida.edu/procedures/3284-student-activity-prizes
+2025-04-24 11:08:45,178 - INFO - Scraping https://www.southflorida.edu/procedures/5211-responsibilities-faculty-career-administrative-personnel-regard-safety-security
+2025-04-24 11:08:45,554 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:45,555 - WARNING - No content found for https://www.southflorida.edu/procedures/5211-responsibilities-faculty-career-administrative-personnel-regard-safety-security
+2025-04-24 11:08:45,556 - INFO - Scraping https://www.southflorida.edu/procedures/2151-employee-personnel-files
+2025-04-24 11:08:46,083 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:46,083 - WARNING - No content found for https://www.southflorida.edu/procedures/2151-employee-personnel-files
+2025-04-24 11:08:46,083 - INFO - Scraping https://www.southflorida.edu/procedures/3285-students-representing-college-campus-activities
+2025-04-24 11:08:46,503 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:46,503 - WARNING - No content found for https://www.southflorida.edu/procedures/3285-students-representing-college-campus-activities
+2025-04-24 11:08:46,503 - INFO - Scraping https://www.southflorida.edu/procedures/2152-student-records
+2025-04-24 11:08:46,928 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:46,932 - WARNING - No content found for https://www.southflorida.edu/procedures/2152-student-records
+2025-04-24 11:08:46,932 - INFO - Scraping https://www.southflorida.edu/procedures/2154-information-systems-security
+2025-04-24 11:08:47,389 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:47,392 - WARNING - No content found for https://www.southflorida.edu/procedures/2154-information-systems-security
+2025-04-24 11:08:47,392 - INFO - Scraping https://www.southflorida.edu/procedures/3330-student-process-recommending-institutional-changes
+2025-04-24 11:08:47,858 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:47,861 - WARNING - No content found for https://www.southflorida.edu/procedures/3330-student-process-recommending-institutional-changes
+2025-04-24 11:08:47,861 - INFO - Scraping https://www.southflorida.edu/procedures/5220-workload-full-time-instructional-faculty
+2025-04-24 11:08:48,358 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:48,360 - WARNING - No content found for https://www.southflorida.edu/procedures/5220-workload-full-time-instructional-faculty
+2025-04-24 11:08:48,360 - INFO - Scraping https://www.southflorida.edu/procedures/5223-workweek-professional-staff-career-service-employees
+2025-04-24 11:08:48,861 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:48,862 - WARNING - No content found for https://www.southflorida.edu/procedures/5223-workweek-professional-staff-career-service-employees
+2025-04-24 11:08:48,862 - INFO - Scraping https://www.southflorida.edu/procedures/5224-flex-time-scheduling-administrators
+2025-04-24 11:08:49,343 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:49,359 - WARNING - No content found for https://www.southflorida.edu/procedures/5224-flex-time-scheduling-administrators
+2025-04-24 11:08:49,360 - INFO - Scraping https://www.southflorida.edu/procedures/2156-inspection-examination-duplication-college-records
+2025-04-24 11:08:49,819 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:49,830 - WARNING - No content found for https://www.southflorida.edu/procedures/2156-inspection-examination-duplication-college-records
+2025-04-24 11:08:49,830 - INFO - Scraping https://www.southflorida.edu/procedures/3331-student-discipline
+2025-04-24 11:08:50,241 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:50,251 - WARNING - No content found for https://www.southflorida.edu/procedures/3331-student-discipline
+2025-04-24 11:08:50,251 - INFO - Scraping https://www.southflorida.edu/procedures/5225-holiday-work-schedules
+2025-04-24 11:08:50,718 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:50,720 - WARNING - No content found for https://www.southflorida.edu/procedures/5225-holiday-work-schedules
+2025-04-24 11:08:50,722 - INFO - Scraping https://www.southflorida.edu/procedures/2157-personnel-files
+2025-04-24 11:08:51,199 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:51,210 - WARNING - No content found for https://www.southflorida.edu/procedures/2157-personnel-files
+2025-04-24 11:08:51,211 - INFO - Scraping https://www.southflorida.edu/procedures/3340-solicitation-college-owned-operated-facilities-students-non-profit-organizations
+2025-04-24 11:08:51,635 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:51,639 - WARNING - No content found for https://www.southflorida.edu/procedures/3340-solicitation-college-owned-operated-facilities-students-non-profit-organizations
+2025-04-24 11:08:51,639 - INFO - Scraping https://www.southflorida.edu/procedures/5226-staffing-use-part-time-adjunct-personnel
+2025-04-24 11:08:52,009 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:52,012 - WARNING - No content found for https://www.southflorida.edu/procedures/5226-staffing-use-part-time-adjunct-personnel
+2025-04-24 11:08:52,012 - INFO - Scraping https://www.southflorida.edu/procedures/3360-prohibition-hazing
+2025-04-24 11:08:52,401 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:52,401 - WARNING - No content found for https://www.southflorida.edu/procedures/3360-prohibition-hazing
+2025-04-24 11:08:52,401 - INFO - Scraping https://www.southflorida.edu/procedures/2158-information-security
+2025-04-24 11:08:52,793 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:52,809 - WARNING - No content found for https://www.southflorida.edu/procedures/2158-information-security
+2025-04-24 11:08:52,809 - INFO - Scraping https://www.southflorida.edu/procedures/3370-religious-observance-students
+2025-04-24 11:08:53,246 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:53,262 - WARNING - No content found for https://www.southflorida.edu/procedures/3370-religious-observance-students
+2025-04-24 11:08:53,262 - INFO - Scraping https://www.southflorida.edu/procedures/5230-sexual-harassment-employees-andor-job-applicants
+2025-04-24 11:08:53,952 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:53,952 - WARNING - No content found for https://www.southflorida.edu/procedures/5230-sexual-harassment-employees-andor-job-applicants
+2025-04-24 11:08:53,952 - INFO - Scraping https://www.southflorida.edu/procedures/5231-preventing-managing-sexual-misconduct
+2025-04-24 11:08:54,386 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:54,400 - WARNING - No content found for https://www.southflorida.edu/procedures/5231-preventing-managing-sexual-misconduct
+2025-04-24 11:08:54,400 - INFO - Scraping https://www.southflorida.edu/procedures/2159-identity-theft-prevention-program
+2025-04-24 11:08:54,814 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:54,815 - WARNING - No content found for https://www.southflorida.edu/procedures/2159-identity-theft-prevention-program
+2025-04-24 11:08:54,815 - INFO - Scraping https://www.southflorida.edu/procedures/5240-employee-recruitment-selection
+2025-04-24 11:08:55,220 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:55,220 - WARNING - No content found for https://www.southflorida.edu/procedures/5240-employee-recruitment-selection
+2025-04-24 11:08:55,225 - INFO - Scraping https://www.southflorida.edu/procedures/2170-employee-awards-programs
+2025-04-24 11:08:55,595 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:55,595 - WARNING - No content found for https://www.southflorida.edu/procedures/2170-employee-awards-programs
+2025-04-24 11:08:55,595 - INFO - Scraping https://www.southflorida.edu/procedures/2180-college-committees
+2025-04-24 11:08:55,963 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:55,963 - WARNING - No content found for https://www.southflorida.edu/procedures/2180-college-committees
+2025-04-24 11:08:55,963 - INFO - Scraping https://www.southflorida.edu/procedures/5242-instructional-leadership-department-chair-program-director-program-manager-selection
+2025-04-24 11:08:56,438 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:56,438 - WARNING - No content found for https://www.southflorida.edu/procedures/5242-instructional-leadership-department-chair-program-director-program-manager-selection
+2025-04-24 11:08:56,438 - INFO - Scraping https://www.southflorida.edu/procedures/2200-role-of-faculty-governance-college
+2025-04-24 11:08:56,953 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:56,953 - WARNING - No content found for https://www.southflorida.edu/procedures/2200-role-of-faculty-governance-college
+2025-04-24 11:08:56,970 - INFO - Scraping https://www.southflorida.edu/procedures/5243-transfer-employees
+2025-04-24 11:08:57,392 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:57,397 - WARNING - No content found for https://www.southflorida.edu/procedures/5243-transfer-employees
+2025-04-24 11:08:57,397 - INFO - Scraping https://www.southflorida.edu/procedures/5244-dismissal-suspension-employees
+2025-04-24 11:08:57,769 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:57,771 - WARNING - No content found for https://www.southflorida.edu/procedures/5244-dismissal-suspension-employees
+2025-04-24 11:08:57,772 - INFO - Scraping https://www.southflorida.edu/procedures/5245-demotion-career-employees
+2025-04-24 11:08:58,242 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:58,248 - WARNING - No content found for https://www.southflorida.edu/procedures/5245-demotion-career-employees
+2025-04-24 11:08:58,248 - INFO - Scraping https://www.southflorida.edu/procedures/5246-promotion-career-employees
+2025-04-24 11:08:58,705 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:58,706 - WARNING - No content found for https://www.southflorida.edu/procedures/5246-promotion-career-employees
+2025-04-24 11:08:58,707 - INFO - Scraping https://www.southflorida.edu/procedures/5247-instructional-aides
+2025-04-24 11:08:59,161 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:59,166 - WARNING - No content found for https://www.southflorida.edu/procedures/5247-instructional-aides
+2025-04-24 11:08:59,166 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1030-substantive-change
+2025-04-24 11:08:59,798 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:08:59,798 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1030-substantive-change
+2025-04-24 11:08:59,798 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1050-seating-access-mobility-impaired-performances
+2025-04-24 11:09:01,328 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:01,344 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1050-seating-access-mobility-impaired-performances
+2025-04-24 11:09:01,344 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1070-alcohol-drug-free-campus-workplace
+2025-04-24 11:09:02,025 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:02,025 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1070-alcohol-drug-free-campus-workplace
+2025-04-24 11:09:02,025 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1090-faculty-administrative-grievance-procedure
+2025-04-24 11:09:02,647 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:02,652 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1090-faculty-administrative-grievance-procedure
+2025-04-24 11:09:02,653 - INFO - Scraping http://www.southflorida.edu/wp-content/uploads/2019/11/1091-Career-Service-and-Professionsl-Staff-Greivance-Procedure.pdf
+2025-04-24 11:09:02,832 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:02,832 - WARNING - No content found for http://www.southflorida.edu/wp-content/uploads/2019/11/1091-Career-Service-and-Professionsl-Staff-Greivance-Procedure.pdf
+2025-04-24 11:09:02,832 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1093-correcting-actions-faculty-personnel
+2025-04-24 11:09:03,457 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:03,457 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1093-correcting-actions-faculty-personnel
+2025-04-24 11:09:03,457 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1094-final-paycheck-terminated-employment
+2025-04-24 11:09:04,039 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:04,039 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1094-final-paycheck-terminated-employment
+2025-04-24 11:09:04,039 - INFO - Scraping http://www.southflorida.edu/wp-content/uploads/2020/12/1095-Student-Complaint-Grievance-Procedure.pdf
+2025-04-24 11:09:04,269 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:04,269 - WARNING - No content found for http://www.southflorida.edu/wp-content/uploads/2020/12/1095-Student-Complaint-Grievance-Procedure.pdf
+2025-04-24 11:09:04,269 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1100-equal-opportunity
+2025-04-24 11:09:04,871 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:04,871 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1100-equal-opportunity
+2025-04-24 11:09:04,871 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1101-substitution-courses-students-disabilities
+2025-04-24 11:09:05,430 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:05,439 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1101-substitution-courses-students-disabilities
+2025-04-24 11:09:05,439 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1140-copyright-compliance
+2025-04-24 11:09:06,123 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:06,123 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1140-copyright-compliance
+2025-04-24 11:09:06,123 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1160-materials-produced-employees
+2025-04-24 11:09:06,791 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:06,809 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1160-materials-produced-employees
+2025-04-24 11:09:06,809 - INFO - Scraping https://www.southflorida.edu/procedures/general-principles/1180-student-athlete-substance-abuse-testing
+2025-04-24 11:09:07,514 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:07,514 - WARNING - No content found for https://www.southflorida.edu/procedures/general-principles/1180-student-athlete-substance-abuse-testing
+2025-04-24 11:09:07,514 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2040-development-adoption-policies
+2025-04-24 11:09:08,091 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:08,093 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2040-development-adoption-policies
+2025-04-24 11:09:08,095 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2041-development-adoption-administrative-procedure
+2025-04-24 11:09:08,661 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:08,661 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2041-development-adoption-administrative-procedure
+2025-04-24 11:09:08,661 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2060-fraud-reporting-procedures
+2025-04-24 11:09:09,249 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:09,257 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2060-fraud-reporting-procedures
+2025-04-24 11:09:09,257 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2061-reports-coordination
+2025-04-24 11:09:09,829 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:09,830 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2061-reports-coordination
+2025-04-24 11:09:09,830 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2062-library-inventory
+2025-04-24 11:09:10,381 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:10,381 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2062-library-inventory
+2025-04-24 11:09:10,381 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2063-circulation-library-services-educational-materials
+2025-04-24 11:09:10,972 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:10,972 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2063-circulation-library-services-educational-materials
+2025-04-24 11:09:10,972 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2065-use-of-college-multimedia-production-facilities
+2025-04-24 11:09:11,570 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:11,570 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2065-use-of-college-multimedia-production-facilities
+2025-04-24 11:09:11,570 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2070-insurance-newly-completed-construction-projects
+2025-04-24 11:09:12,156 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:12,156 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2070-insurance-newly-completed-construction-projects
+2025-04-24 11:09:12,156 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2071-safes-vaults
+2025-04-24 11:09:12,763 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:12,763 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2071-safes-vaults
+2025-04-24 11:09:12,763 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2072-lost-found-property
+2025-04-24 11:09:13,325 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:13,325 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2072-lost-found-property
+2025-04-24 11:09:13,325 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2076-use-college-vans
+2025-04-24 11:09:13,918 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:13,921 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2076-use-college-vans
+2025-04-24 11:09:13,921 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2074-responsibility-college-property-property-records
+2025-04-24 11:09:14,580 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:14,591 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2074-responsibility-college-property-property-records
+2025-04-24 11:09:14,591 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2080-cash-disbursements
+2025-04-24 11:09:15,257 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:15,257 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2080-cash-disbursements
+2025-04-24 11:09:15,257 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2090-development-non-classroom-college-publications
+2025-04-24 11:09:15,940 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:15,949 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2090-development-non-classroom-college-publications
+2025-04-24 11:09:15,949 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2091sfsc-catalog-changes
+2025-04-24 11:09:16,518 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:16,518 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2091sfsc-catalog-changes
+2025-04-24 11:09:16,518 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2092-2
+2025-04-24 11:09:17,061 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:17,061 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2092-2
+2025-04-24 11:09:17,061 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2100-release-information-public
+2025-04-24 11:09:17,761 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:17,764 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2100-release-information-public
+2025-04-24 11:09:17,765 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2110-posted-advertisements
+2025-04-24 11:09:18,480 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:18,487 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2110-posted-advertisements
+2025-04-24 11:09:18,487 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2120-control-solicitation-information-gathering-employee-students-campus-representing-college
+2025-04-24 11:09:19,131 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:19,131 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2120-control-solicitation-information-gathering-employee-students-campus-representing-college
+2025-04-24 11:09:19,131 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2170-employee-awards-programs
+2025-04-24 11:09:19,705 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:19,705 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2170-employee-awards-programs
+2025-04-24 11:09:19,705 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2180-college-committees
+2025-04-24 11:09:20,272 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:20,273 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2180-college-committees
+2025-04-24 11:09:20,273 - INFO - Scraping https://www.southflorida.edu/procedures/organization-governance/2200-role-of-faculty-governance-college
+2025-04-24 11:09:21,024 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:21,026 - WARNING - No content found for https://www.southflorida.edu/procedures/organization-governance/2200-role-of-faculty-governance-college
+2025-04-24 11:09:21,026 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3010-cultural-programming-guidelines-freedom-expression
+2025-04-24 11:09:21,656 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:21,656 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3010-cultural-programming-guidelines-freedom-expression
+2025-04-24 11:09:21,656 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3011-academic-freedom
+2025-04-24 11:09:22,222 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:22,222 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3011-academic-freedom
+2025-04-24 11:09:22,222 - INFO - Scraping http://www.southflorida.edu/wp-content/uploads/2020/04/3030-Academic-Program-Review-Procedures.pdf
+2025-04-24 11:09:22,505 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:22,514 - WARNING - No content found for http://www.southflorida.edu/wp-content/uploads/2020/04/3030-Academic-Program-Review-Procedures.pdf
+2025-04-24 11:09:22,515 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3100-instructor-withdrawal-students-classes
+2025-04-24 11:09:23,089 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:23,089 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3100-instructor-withdrawal-students-classes
+2025-04-24 11:09:23,089 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3101-academic-standards-progress
+2025-04-24 11:09:23,724 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:23,724 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3101-academic-standards-progress
+2025-04-24 11:09:23,724 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3102-standards-progress-students-financial-aid
+2025-04-24 11:09:24,399 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:24,399 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3102-standards-progress-students-financial-aid
+2025-04-24 11:09:24,406 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3103-academic-appeals
+2025-04-24 11:09:24,995 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:24,997 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3103-academic-appeals
+2025-04-24 11:09:24,997 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3151-admission-dual-enrollment-programs
+2025-04-24 11:09:25,609 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:25,609 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3151-admission-dual-enrollment-programs
+2025-04-24 11:09:25,609 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3160-student-admission-process
+2025-04-24 11:09:26,177 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:26,177 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3160-student-admission-process
+2025-04-24 11:09:26,177 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3161-admission-international-students
+2025-04-24 11:09:26,750 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:26,750 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3161-admission-international-students
+2025-04-24 11:09:26,750 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3230-student-financial-aid-information
+2025-04-24 11:09:27,379 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:27,379 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3230-student-financial-aid-information
+2025-04-24 11:09:27,379 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3280-establishing-student-organizations-clubs
+2025-04-24 11:09:28,060 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:28,065 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3280-establishing-student-organizations-clubs
+2025-04-24 11:09:28,065 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3281-business-procedures-student-activities
+2025-04-24 11:09:28,734 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:28,736 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3281-business-procedures-student-activities
+2025-04-24 11:09:28,736 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3283-scheduling-student-activities
+2025-04-24 11:09:29,350 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:29,350 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3283-scheduling-student-activities
+2025-04-24 11:09:29,350 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3284-student-activity-prizes
+2025-04-24 11:09:29,972 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:29,972 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3284-student-activity-prizes
+2025-04-24 11:09:29,972 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3285-students-representing-college-campus-activities
+2025-04-24 11:09:30,604 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:30,604 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3285-students-representing-college-campus-activities
+2025-04-24 11:09:30,617 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3330-student-process-recommending-institutional-changes
+2025-04-24 11:09:31,297 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:31,300 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3330-student-process-recommending-institutional-changes
+2025-04-24 11:09:31,301 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3331-student-discipline
+2025-04-24 11:09:31,921 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:31,921 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3331-student-discipline
+2025-04-24 11:09:31,921 - INFO - Scraping http://www.southflorida.edu/procedures/education-student-services/3340-solicitation-college-owned-operated-facilities-students-non-profit-organizations
+2025-04-24 11:09:32,622 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:32,632 - WARNING - No content found for http://www.southflorida.edu/procedures/education-student-services/3340-solicitation-college-owned-operated-facilities-students-non-profit-organizations
+2025-04-24 11:09:32,632 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3360-prohibition-hazing
+2025-04-24 11:09:33,232 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:33,234 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3360-prohibition-hazing
+2025-04-24 11:09:33,234 - INFO - Scraping https://www.southflorida.edu/procedures/education-student-services/3370-religious-observance-students
+2025-04-24 11:09:33,840 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:33,841 - WARNING - No content found for https://www.southflorida.edu/procedures/education-student-services/3370-religious-observance-students
+2025-04-24 11:09:33,841 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4030-budget-development-budget-amendment-procedure
+2025-04-24 11:09:34,409 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:34,409 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4030-budget-development-budget-amendment-procedure
+2025-04-24 11:09:34,409 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4040-purchasing-goods-services
+2025-04-24 11:09:35,077 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:35,077 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4040-purchasing-goods-services
+2025-04-24 11:09:35,077 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4041-textbook-adoption
+2025-04-24 11:09:35,661 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:35,665 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4041-textbook-adoption
+2025-04-24 11:09:35,665 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4090-cash-collection-receipting-procedure
+2025-04-24 11:09:36,282 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:36,297 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4090-cash-collection-receipting-procedure
+2025-04-24 11:09:36,297 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4111-graduation-fees
+2025-04-24 11:09:36,875 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:36,877 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4111-graduation-fees
+2025-04-24 11:09:36,878 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4112-fees
+2025-04-24 11:09:37,482 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:37,482 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4112-fees
+2025-04-24 11:09:37,482 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4113-application-fee
+2025-04-24 11:09:38,083 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:38,085 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4113-application-fee
+2025-04-24 11:09:38,086 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4114-labcourse-distance-learning-fees
+2025-04-24 11:09:38,711 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:38,713 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4114-labcourse-distance-learning-fees
+2025-04-24 11:09:38,714 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4120-outstanding-debt
+2025-04-24 11:09:39,337 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:39,339 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4120-outstanding-debt
+2025-04-24 11:09:39,339 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4130-sfsc-refund-procedure
+2025-04-24 11:09:39,912 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:39,914 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4130-sfsc-refund-procedure
+2025-04-24 11:09:39,914 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4150-investment-funds
+2025-04-24 11:09:40,670 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:40,670 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4150-investment-funds
+2025-04-24 11:09:40,670 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4180-travel-reimbursement
+2025-04-24 11:09:41,290 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:41,292 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4180-travel-reimbursement
+2025-04-24 11:09:41,293 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4220-grant-procedures
+2025-04-24 11:09:41,918 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:41,926 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4221-grants-contracts-personnel-activity-reports
+2025-04-24 11:09:42,509 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:42,510 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4221-grants-contracts-personnel-activity-reports
+2025-04-24 11:09:42,510 - INFO - Scraping https://www.southflorida.edu/procedures/business-fiscal-services/4223-conflict-interest-procedure-grant-awards
+2025-04-24 11:09:43,108 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:43,111 - WARNING - No content found for https://www.southflorida.edu/procedures/business-fiscal-services/4223-conflict-interest-procedure-grant-awards
+2025-04-24 11:09:43,112 - INFO - Scraping http://www.southflorida.edu/wp-content/uploads/2019/10/4224-Grant-Procedures-Cash-Management.pdf
+2025-04-24 11:09:43,239 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:43,242 - WARNING - No content found for http://www.southflorida.edu/wp-content/uploads/2019/10/4224-Grant-Procedures-Cash-Management.pdf
+2025-04-24 11:09:43,242 - INFO - Scraping http://www.southflorida.edu/wp-content/uploads/2019/10/4225-Additional-Procurement-Procedures-for-Purchases-from-Federal-Grants.pdf
+2025-04-24 11:09:43,410 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:43,414 - WARNING - No content found for http://www.southflorida.edu/wp-content/uploads/2019/10/4225-Additional-Procurement-Procedures-for-Purchases-from-Federal-Grants.pdf
+2025-04-24 11:09:43,415 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5030-staff-faculty-separation
+2025-04-24 11:09:43,971 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:43,972 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5030-staff-faculty-separation
+2025-04-24 11:09:43,973 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5031-exit-interviews
+2025-04-24 11:09:44,588 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:44,591 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5031-exit-interviews
+2025-04-24 11:09:44,592 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5040-evaluation-full-time-adjunct-faculty
+2025-04-24 11:09:45,224 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:45,227 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5040-evaluation-full-time-adjunct-faculty
+2025-04-24 11:09:45,227 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5041-evaluation-professional-staff-career-service-employees
+2025-04-24 11:09:45,927 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:45,927 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5041-evaluation-professional-staff-career-service-employees
+2025-04-24 11:09:45,927 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5042-evaluation-administrators
+2025-04-24 11:09:46,493 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:46,495 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5042-evaluation-administrators
+2025-04-24 11:09:46,496 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5043-employee-reappointment-evaluations
+2025-04-24 11:09:47,091 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:47,091 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5043-employee-reappointment-evaluations
+2025-04-24 11:09:47,091 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5060-professional-standards-faculty-exceptions
+2025-04-24 11:09:47,680 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:47,683 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5060-professional-standards-faculty-exceptions
+2025-04-24 11:09:47,683 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5061-advancement-rank-faculty
+2025-04-24 11:09:48,381 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:48,391 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5061-advancement-rank-faculty
+2025-04-24 11:09:48,391 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5070-reappointment-termination-procedures-annual-contract-employees
+2025-04-24 11:09:49,034 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:49,051 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5070-reappointment-termination-procedures-annual-contract-employees
+2025-04-24 11:09:49,051 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5080-reclassification-positions
+2025-04-24 11:09:49,719 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:49,736 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5080-reclassification-positions
+2025-04-24 11:09:49,737 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5090-probationary-performance-review-system
+2025-04-24 11:09:50,293 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:50,304 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5090-probationary-performance-review-system
+2025-04-24 11:09:50,305 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5110-substitute-instructional
+2025-04-24 11:09:50,977 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:50,977 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5110-substitute-instructional
+2025-04-24 11:09:50,977 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5130-leaves-absense
+2025-04-24 11:09:51,695 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:51,699 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5130-leaves-absense
+2025-04-24 11:09:51,701 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5140-salary-schedule-compensation
+2025-04-24 11:09:52,254 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:52,254 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5140-salary-schedule-compensation
+2025-04-24 11:09:52,254 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5141-salary-equity-adjustments
+2025-04-24 11:09:52,835 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:52,835 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5141-salary-equity-adjustments
+2025-04-24 11:09:52,835 - INFO - Scraping http://www.southflorida.edu/procedures/5142-salary-determination-for-employees-in-grant-funded-positions
+2025-04-24 11:09:53,165 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:53,165 - WARNING - No content found for http://www.southflorida.edu/procedures/5142-salary-determination-for-employees-in-grant-funded-positions
+2025-04-24 11:09:53,165 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5160-holiday-pay-overtime-pay-compensatory-time-call-pay
+2025-04-24 11:09:53,868 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:53,868 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5160-holiday-pay-overtime-pay-compensatory-time-call-pay
+2025-04-24 11:09:53,868 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5210-cooperation-fact-finding
+2025-04-24 11:09:54,479 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:54,481 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5210-cooperation-fact-finding
+2025-04-24 11:09:54,481 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5211-responsibilities-faculty-career-administrative-personnel-regard-safety-security
+2025-04-24 11:09:55,058 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:55,060 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5211-responsibilities-faculty-career-administrative-personnel-regard-safety-security
+2025-04-24 11:09:55,060 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5220-workload-full-time-instructional-faculty
+2025-04-24 11:09:55,742 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:55,748 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5220-workload-full-time-instructional-faculty
+2025-04-24 11:09:55,748 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5223-workweek-professional-staff-career-service-employees
+2025-04-24 11:09:56,431 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:56,442 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5223-workweek-professional-staff-career-service-employees
+2025-04-24 11:09:56,442 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5224-flex-time-scheduling-administrators
+2025-04-24 11:09:57,099 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:57,099 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5224-flex-time-scheduling-administrators
+2025-04-24 11:09:57,099 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5225-holiday-work-schedules
+2025-04-24 11:09:57,781 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:57,781 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5225-holiday-work-schedules
+2025-04-24 11:09:57,781 - INFO - Scraping https://www.southflorida.edu/wp-content/uploads/2023/07/5230-Discrimination-Harassment-and-or-Sexual-Harassment-Complaint-Procedure.pdf
+2025-04-24 11:09:58,097 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:58,106 - WARNING - No content found for https://www.southflorida.edu/wp-content/uploads/2023/07/5230-Discrimination-Harassment-and-or-Sexual-Harassment-Complaint-Procedure.pdf
+2025-04-24 11:09:58,106 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5240-employee-recruitment-selection
+2025-04-24 11:09:58,734 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:58,737 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5240-employee-recruitment-selection
+2025-04-24 11:09:58,738 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5242-instructional-leadership-department-chair-program-director-program-manager-selection
+2025-04-24 11:09:59,395 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:59,400 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5242-instructional-leadership-department-chair-program-director-program-manager-selection
+2025-04-24 11:09:59,400 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5244-dismissal-suspension-employees
+2025-04-24 11:09:59,958 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:09:59,971 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5244-dismissal-suspension-employees
+2025-04-24 11:09:59,972 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5245-demotion-career-employees
+2025-04-24 11:10:01,225 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:01,230 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5245-demotion-career-employees
+2025-04-24 11:10:01,230 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5246-promotion-career-employees
+2025-04-24 11:10:01,879 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:01,881 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5246-promotion-career-employees
+2025-04-24 11:10:01,881 - INFO - Scraping https://www.southflorida.edu/procedures/human-resources/5247-instructional-aides
+2025-04-24 11:10:02,575 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:02,577 - WARNING - No content found for https://www.southflorida.edu/procedures/human-resources/5247-instructional-aides
+2025-04-24 11:10:02,577 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7010-contracting-architectural-engineering-professional-services
+2025-04-24 11:10:03,182 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:03,182 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7010-contracting-architectural-engineering-professional-services
+2025-04-24 11:10:03,182 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7011-contracting-construction-manager-services
+2025-04-24 11:10:03,765 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:03,765 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7011-contracting-construction-manager-services
+2025-04-24 11:10:03,765 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7020-change-orders-affecting-construction-contractsfinal-payment
+2025-04-24 11:10:04,346 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:04,346 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7020-change-orders-affecting-construction-contractsfinal-payment
+2025-04-24 11:10:04,346 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7030-use-college-vehicles
+2025-04-24 11:10:04,922 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:04,922 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7030-use-college-vehicles
+2025-04-24 11:10:04,922 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7031-field-trips
+2025-04-24 11:10:06,516 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:06,518 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7031-field-trips
+2025-04-24 11:10:06,518 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7032-emergency-evacuation
+2025-04-24 11:10:07,083 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:07,086 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7032-emergency-evacuation
+2025-04-24 11:10:07,086 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7033-fire-exit-regulations
+2025-04-24 11:10:07,665 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:07,666 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7033-fire-exit-regulations
+2025-04-24 11:10:07,667 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7034-parking-traffic-regulations
+2025-04-24 11:10:08,238 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:08,238 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7034-parking-traffic-regulations
+2025-04-24 11:10:08,254 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7035-illness-accidental-injury
+2025-04-24 11:10:08,806 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:08,806 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7035-illness-accidental-injury
+2025-04-24 11:10:08,806 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7036-security
+2025-04-24 11:10:09,479 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:09,479 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7036-security
+2025-04-24 11:10:09,479 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7036-1-security-video-surveillance
+2025-04-24 11:10:10,044 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:10,048 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7036-1-security-video-surveillance
+2025-04-24 11:10:10,048 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7038-key-control
+2025-04-24 11:10:10,634 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:10,637 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7038-key-control
+2025-04-24 11:10:10,638 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7039-accident-information
+2025-04-24 11:10:11,217 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:11,220 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7039-accident-information
+2025-04-24 11:10:11,221 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7039-1-contacting-students
+2025-04-24 11:10:12,192 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:12,197 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7039-1-contacting-students
+2025-04-24 11:10:12,197 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7040-rental-supplemental-facilities-facilities-used-college
+2025-04-24 11:10:12,778 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:12,785 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7040-rental-supplemental-facilities-facilities-used-college
+2025-04-24 11:10:12,785 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7050-use-scheduling-college-facilities
+2025-04-24 11:10:13,412 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:13,412 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7050-use-scheduling-college-facilities
+2025-04-24 11:10:13,412 - INFO - Scraping https://www.southflorida.edu/procedures/facilities/7070-standard-sanitation-housekeeping-maintenance
+2025-04-24 11:10:14,438 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:14,438 - WARNING - No content found for https://www.southflorida.edu/procedures/facilities/7070-standard-sanitation-housekeeping-maintenance
+2025-04-24 11:10:14,438 - INFO - Scraping https://www.southflorida.edu/procedures/direct-support-organizations/8010-south-florida-state-college-foundation-inc
+2025-04-24 11:10:15,044 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-04-24 11:10:15,047 - WARNING - No content found for https://www.southflorida.edu/procedures/direct-support-organizations/8010-south-florida-state-college-foundation-inc
+2025-04-24 11:10:15,047 - INFO - Scraping https://www.southflorida.edu/procedures
+2025-04-24 11:10:16,002 - INFO - Data saved to policies_procedures.csv with 5 records
